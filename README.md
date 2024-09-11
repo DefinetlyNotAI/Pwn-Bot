@@ -6,7 +6,7 @@
     <a href="https://github.com/DefinetlyNotAI/Pwn-Bot/languages"><img src="https://img.shields.io/github/languages/count/DefinetlyNotAI/Pwn-Bot" alt="GitHub Language Count"></a>
     <a href="https://github.com/DefinetlyNotAI/Pwn-Bot/actions"><img src="https://img.shields.io/github/check-runs/DefinetlyNotAI/Pwn-Bot/main" alt="GitHub Branch Check Runs"></a>
     <a href="https://github.com/DefinetlyNotAI/Pwn-Bot"><img src="https://img.shields.io/github/repo-size/DefinetlyNotAI/Pwn-Bot" alt="GitHub Repo Size"></a>
-  <a href="https://codeclimate.com/github/DefinetlyNotAI/Pwn-Bot/maintainability"><img src="https://api.codeclimate.com/v1/badges/ae2c436af07d00aabf00/maintainability"  alt="GitHub Repo CodeClimate Rating"/></a>
+    <a href="https://codeclimate.com/github/DefinetlyNotAI/Pwn-Bot/maintainability"><img src="https://api.codeclimate.com/v1/badges/d5b8235e024faa4e9354/maintainability" /></a>
 </div>
 
 
