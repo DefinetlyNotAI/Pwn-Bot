@@ -1,0 +1,7 @@
+{
+  "token": "YOUR BOT TOKEN HERE",
+  "channel_id_(for_pcaps)": 1234567890,
+  "channel_id_(for_logs)": 1234567890,
+  "webhooks_username": ["YOUR WEBHOOK USERNAME", "YOUR ACCOUNT NAME OR ANY OTHER NAME YOU WANT THE BOT TO SEND OR ACT UPON"],
+  "log_using_debug?": false
+}
