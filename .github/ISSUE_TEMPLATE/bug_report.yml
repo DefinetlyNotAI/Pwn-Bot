@@ -29,21 +29,10 @@ body:
       description: Include anything you deem important, like the CMD response given to you.
     validations:
       required: true
-  - type: dropdown
-    id: browser
-    attributes:
-      label: What browser(s) are you using?
-      multiple: true
-      options:
-        - Chrome
-        - Safari
-        - Firefox
-        - Microsoft Edge
-        - Opera
   - type: input
     id: project
     attributes:
       label: What project is the issue related to?
-      placeholder: "e.g., CPU"
+      placeholder: "e.g., Discord Bot or Pwngotchi"
     validations:
       required: true
