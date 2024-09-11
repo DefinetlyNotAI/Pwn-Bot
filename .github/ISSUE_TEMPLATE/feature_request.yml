@@ -42,6 +42,6 @@ body:
     id: project
     attributes:
       label: What project is the issue related to?
-      placeholder: "e.g., CPU"
+      placeholder: "e.g., Discord Bot or Pwn Plugin"
     validations:
       required: true
