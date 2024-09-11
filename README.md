@@ -1,5 +1,16 @@
 # AutoPCAP Project
 
+<div align="center">
+    <a href="https://github.com/DefinetlyNotAI/Pwn-Bot/issues"><img src="https://img.shields.io/github/issues/DefinetlyNotAI/Pwn-Bot" alt="GitHub Issues"></a>
+    <a href="https://github.com/DefinetlyNotAI/Pwn-Bot/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/t/DefinetlyNotAI/Pwn-Bot" alt="GitHub Commit Activity"></a>
+    <a href="https://github.com/DefinetlyNotAI/Pwn-Bot/languages"><img src="https://img.shields.io/github/languages/count/DefinetlyNotAI/Pwn-Bot" alt="GitHub Language Count"></a>
+    <a href="https://github.com/DefinetlyNotAI/Pwn-Bot/actions"><img src="https://img.shields.io/github/check-runs/DefinetlyNotAI/Pwn-Bot/main" alt="GitHub Branch Check Runs"></a>
+    <a href="https://github.com/DefinetlyNotAI/Pwn-Bot"><img src="https://img.shields.io/github/repo-size/DefinetlyNotAI/Pwn-Bot" alt="GitHub Repo Size"></a>
+  <a href="https://codeclimate.com/github/DefinetlyNotAI/Pwn-Bot/maintainability"><img src="https://api.codeclimate.com/v1/badges/ae2c436af07d00aabf00/maintainability"  alt="GitHub Repo CodeClimate Rating"/></a>
+</div>
+
+---
+
 ## Table of Contents
 - [Introduction](#-introduction)
   - [Overview](#-overview)
